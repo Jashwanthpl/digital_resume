@@ -1,2 +1,2 @@
-# digital_resume
-My digital resume
+# digital_portfolio
+My digital portfolio
